@@ -57,7 +57,7 @@
 &kp LCTRL   &kp Z      &kp X         &kp C         &kp V   &kp B        &kp RIGHT_ARROW  &kp N      &kp M      &kp COMMA  &kp DOT          &kp APOS    &kp DELETE
 &kp C_MUTE  &kp PSCRN  &kp 1  &kp SPACE  &mo ENTER   &kp SPACE    &kp ENTER        &kp BACKSPACE  &kp BSLH  &mo FSLH      &kp LEFT_BRACKET  &kp RIGHT_BRACKET
             >;
-keymapkeymapkeymap
+
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
             display-name = "LAYER0";
         };
